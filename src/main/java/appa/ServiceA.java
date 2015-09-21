@@ -16,7 +16,7 @@ public class ServiceA implements IServiceA {
 		
 		System.out.println("method=plus, left="+left + ", right=" + right + ", result=" + result);
 		
-		return result;
+		return 0;
 	}
 
 }
